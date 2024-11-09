@@ -3,5 +3,5 @@
 
 ## Date: Saturday 9 November, 2024 5:46 pm
 
-[Watch the demo video]("Final Output trimmed.mp4")
+[Watch the demo video](Final Output trimmed.mp4)
 
