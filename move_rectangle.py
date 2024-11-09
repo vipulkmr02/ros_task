@@ -43,7 +43,6 @@ def move_turtle():
 
 if __name__ == '__main__':
     try:
-        # Call the function to move the turtle in a circle
         move_turtle()
     except rospy.ROSInterruptException:
         pass
