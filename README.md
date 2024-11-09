@@ -3,5 +3,5 @@
 
 ## Date: Saturday 9 November, 2024 5:46 pm
 
-[demo.mp4](https://drive.google.com/file/d/1tVJXZL2usqb4UVtFog9taOKqtwP0USmV/view?usp=drive_link)
+[Click me to watch the Demo](https://drive.google.com/file/d/1tVJXZL2usqb4UVtFog9taOKqtwP0USmV/view?usp=drive_link)
 
